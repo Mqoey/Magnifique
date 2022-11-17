@@ -1,5 +1,11 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import AboutUsView from '../views/About/AboutUsView.vue'
+import FaqView from '../views/About/FaqView.vue'
+import OurProcessView from '../views/About/OurProcessView.vue'
+import OurTeamView from '../views/About/OurTeamView.vue'
+import ServiceView from '../views/ServiceView.vue'
+import ContactView from '../views/ContactView.vue'
 
 const routes = [
   {
@@ -10,26 +16,32 @@ const routes = [
   {
     path: '/about',
     name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
+    component: AboutUsView
+  },
+  {
+    path: '/faq',
+    name: 'faq',
+    component: FaqView
+  },
+  {
+    path: '/process',
+    name: 'process',
+    component: OurProcessView
+  },
+  {
+    path: '/team',
+    name: 'team',
+    component: OurTeamView
   },
   {
     path: '/services',
     name: 'services',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/ServicesView.vue')
+    component: ServiceView
   },
   {
     path: '/contact',
     name: 'contact',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/ContactView.vue')
+    component: ContactView
   },
 ]
 
