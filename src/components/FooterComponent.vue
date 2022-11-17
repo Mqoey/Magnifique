@@ -20,7 +20,7 @@
                       </div>
                       <div class="info">
                         <h5>Email:</h5>
-                        <span>support@validtemplates.com</span>
+                        <span>info@magnifiqueinc.co.zw</span>
                       </div>
                     </li>
                     <li>
@@ -29,7 +29,7 @@
                       </div>
                       <div class="info">
                         <h5>Phone:</h5>
-                        <span>+44-20-7328-4499</span>
+                        <span>+263 77 422 9472</span>
                       </div>
                     </li>
                   </ul>
@@ -104,7 +104,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              <p>Copyright &copy; 2020. Designed by <a href="#">validtemplatess</a></p>
+              <p>Copyright &copy; 2022. Designed by <a href="https://leviersoft.com">LevierSoft Solutions</a></p>
             </div>
             <div class="col-md-6 text-right link">
               <ul>
@@ -122,7 +122,6 @@
           </div>
         </div>
       </div>
-      <!-- End Footer Bottom -->
     </footer>
   </div>
 </template>
