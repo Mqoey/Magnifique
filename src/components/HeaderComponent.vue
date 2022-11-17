@@ -28,7 +28,7 @@
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
               <i class="fa fa-bars"></i>
             </button>
-            <router-link to="/"><img src="assets/img/logo-orange.png" class="logo" alt="Logo"></router-link>
+            <router-link to="/"><img src="assets/img/logo.png" class="logo" alt="Logo"></router-link>
           </div>
 
           <div class="collapse navbar-collapse" id="navbar-menu">

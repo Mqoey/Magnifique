@@ -3,9 +3,11 @@
     <div id="site-preloader" class="site-preloader">
       <div class="loader-wrap">
         <div class="ring">
-          <span></span>
+          <span>
+            ....
+          </span>
         </div>
-        <h2>Magnifique</h2>
+        <img src="assets/img/logo.png" class="logo" alt="Logo">
       </div>
     </div>
   </div>

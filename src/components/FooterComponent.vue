@@ -64,38 +64,47 @@
                 <h4 class="widget-title">Useful Link</h4>
                 <ul>
                   <li>
-                    <a href="#">Career</a>
+                    <router-link to="/team">Our Team</router-link>
                   </li>
                   <li>
-                    <a href="#">Leadership</a>
+                    <router-link to="/contact">Get in Touch</router-link>
                   </li>
                   <li>
-                    <a href="#">Strategy</a>
+                    <router-link to="/process">Our Process</router-link>
                   </li>
                   <li>
-                    <a href="#">Services</a>
-                  </li>
-                  <li>
-                    <a href="#">History</a>
+                    <router-link to="/faq">Faq</router-link>
                   </li>
                 </ul>
               </div>
             </div>
-    
             <div class="col-lg-4 col-md-6 item">
-              <div class="f-item recent-post">
-                <h4 class="widget-title">Latest News</h4>
-                <div class="item">
-                  <a href="#">Delighted prevailed supported too not remainder perpetual who furnished.</a>
-                  <span><i class="fas fa-calendar-alt"></i> 22 Aug, 2020 - <a href="#">Admin</a></span>
-                </div>
-                <div class="item">
-                  <a href="#">Speaking trifling an to unpacked moderate debating learnin management. </a>
-                  <span><i class="fas fa-calendar-alt"></i> 15 Nov, 2020 - <a href="#">User</a></span>
+              <div class="f-item about">
+                <img src="assets/img/logo-light.png" alt="Logo">
+                <div class="address">
+                  <ul>
+                    <li>
+                      <div class="icon">
+                        <i class="flaticon-email"></i>
+                      </div>
+                      <div class="info">
+                        <h5>Email:</h5>
+                        <span>info@magnifiqueinc.co.zw</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="icon">
+                        <i class="flaticon-call"></i>
+                      </div>
+                      <div class="info">
+                        <h5>Phone:</h5>
+                        <span>+263 77 422 9472</span>
+                      </div>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
-    
           </div>
         </div>
       </div>

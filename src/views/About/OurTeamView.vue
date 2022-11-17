@@ -32,11 +32,11 @@
                   <img src="assets/img/team/1.jpg" alt="Thumb">
                 </div>
                 <div class="info">
-                  <span>Senior Marketer</span>
-                  <h4>Jonathom Ahem</h4>
+                  <span>CEO</span>
+                  <h4>Fungai</h4>
                   <div class="contact">
                     <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/digilab46</a>
+                    <a href="#">twitter.com/fungai</a>
                   </div>
                 </div>
               </div>
@@ -50,10 +50,10 @@
                 </div>
                 <div class="info">
                   <span>Sales Manager</span>
-                  <h4>Donald Busri</h4>
+                  <h4>#</h4>
                   <div class="contact">
                     <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/digilab46</a>
+                    <a href="#">twitter.com/#</a>
                   </div>
                 </div>
               </div>
@@ -67,10 +67,10 @@
                 </div>
                 <div class="info">
                   <span>Data Analyst</span>
-                  <h4>Sami Adham</h4>
+                  <h4>#</h4>
                   <div class="contact">
                     <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/digilab46</a>
+                    <a href="#">twitter.com/#</a>
                   </div>
                 </div>
               </div>

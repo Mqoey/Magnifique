@@ -198,68 +198,51 @@
         <div class="team-items text-center">
           <div class="row">
             <!-- Single Item -->
-            <div class="single-item col-lg-3 col-md-6">
+            <div class="single-item col-lg-4 col-md-6">
               <div class="item wow fadeInUp" data-wow-delay="500ms">
                 <div class="thumb">
                   <img src="assets/img/team/1.jpg" alt="Thumb">
                 </div>
                 <div class="info">
-                  <span>Senior Marketer</span>
-                  <h4>Jonathom Ahem</h4>
+                  <span>CEO</span>
+                  <h4>Fungai</h4>
                   <div class="contact">
                     <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/digilab46</a>
+                    <a href="#">twitter.com/fungai</a>
                   </div>
                 </div>
               </div>
             </div>
             <!-- End Single Item -->
             <!-- Single Item -->
-            <div class="single-item col-lg-3 col-md-6">
+            <div class="single-item col-lg-4 col-md-6">
               <div class="item wow fadeInUp" data-wow-delay="600ms">
                 <div class="thumb">
                   <img src="assets/img/team/2.jpg" alt="Thumb">
                 </div>
                 <div class="info">
                   <span>Sales Manager</span>
-                  <h4>Donald Busri</h4>
+                  <h4>#</h4>
                   <div class="contact">
                     <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/digilab46</a>
+                    <a href="#">twitter.com/#</a>
                   </div>
                 </div>
               </div>
             </div>
             <!-- End Single Item -->
             <!-- Single Item -->
-            <div class="single-item col-lg-3 col-md-6">
+            <div class="single-item col-lg-4 col-md-6">
               <div class="item wow fadeInUp" data-wow-delay="700ms">
                 <div class="thumb">
                   <img src="assets/img/team/3.jpg" alt="Thumb">
                 </div>
                 <div class="info">
                   <span>Data Analyst</span>
-                  <h4>Sami Adham</h4>
+                  <h4>#</h4>
                   <div class="contact">
                     <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/digilab46</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- End Single Item -->
-            <!-- Single Item -->
-            <div class="single-item col-lg-3 col-md-6">
-              <div class="item wow fadeInUp" data-wow-delay="800ms">
-                <div class="thumb">
-                  <img src="assets/img/team/4.jpg" alt="Thumb">
-                </div>
-                <div class="info">
-                  <span>Managing Director</span>
-                  <h4>Munns Tenul</h4>
-                  <div class="contact">
-                    <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/digilab46</a>
+                    <a href="#">twitter.com/#</a>
                   </div>
                 </div>
               </div>
