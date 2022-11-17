@@ -9,7 +9,7 @@
           <div class="col-lg-8 offset-lg-2">
             <h1>Our Services</h1>
             <ul class="breadcrumb">
-              <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+              <li><router-link to="/">Home</router-link></li>
               <li><a href="#">Pages</a></li>
               <li class="active">Services</li>
             </ul>

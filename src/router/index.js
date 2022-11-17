@@ -4,7 +4,7 @@ import AboutUsView from '../views/About/AboutUsView.vue'
 import FaqView from '../views/About/FaqView.vue'
 import OurProcessView from '../views/About/OurProcessView.vue'
 import OurTeamView from '../views/About/OurTeamView.vue'
-import ServiceView from '../views/ServiceView.vue'
+import ServiceView from '../views/ServicesView.vue'
 import ContactView from '../views/ContactView.vue'
 
 const routes = [

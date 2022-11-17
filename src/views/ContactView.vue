@@ -9,7 +9,7 @@
           <div class="col-lg-8 offset-lg-2">
             <h1>Contact Us</h1>
             <ul class="breadcrumb">
-              <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+              <li><router-link to="/">Home</router-link></li>
               <li><a href="#">Pages</a></li>
               <li class="active">Contact</li>
             </ul>
@@ -30,16 +30,15 @@
               <div class="item">
                 <h4>Office Location</h4>
                 <div class="info">
-                  <p>22 Baker Street,<br> London, United Kingdom,<br> W1U 3BW</p>
+                  <p>134 Bajila Close,<br> Westwood, Harare<br> Zimbabwe</p>
                 </div>
               </div>
               <div class="item">
                 <h4>Contact Info</h4>
                 <div class="info">
                   <ul>
-                    <li>Phone: <span>+44-20-7328-4499</span></li>
-                    <li>Fax: <span>+44-20-7328-4499</span></li>
-                    <li>Email: <span>info@digilab.com</span></li>
+                    <li>Phone: <span>+263 77 422 9472</span></li>
+                    <li>Email: <span>info@magnifiqueinc.co.zw</span></li>
                   </ul>
                 </div>
               </div>
