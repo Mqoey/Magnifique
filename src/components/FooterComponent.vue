@@ -41,19 +41,19 @@
                 <h4 class="widget-title">Company</h4>
                 <ul>
                   <li>
-                    <a href="#">Home</a>
+                    <router-link to="/">Home</router-link>
                   </li>
+                  
                   <li>
-                    <a href="#">About us</a>
+                    <router-link to="/services">Services</router-link>
                   </li>
+                  
                   <li>
-                    <a href="#">Compnay History</a>
+                    <router-link to="/about">About us</router-link>
                   </li>
+                  
                   <li>
-                    <a href="#">Features</a>
-                  </li>
-                  <li>
-                    <a href="#">Blog Page</a>
+                    <router-link to="/contact">Contact us</router-link>
                   </li>
                 </ul>
               </div>
