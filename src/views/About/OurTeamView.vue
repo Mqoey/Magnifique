@@ -2,7 +2,10 @@
   <div>
     <div class="breadcrumb-area bg-gradient text-center">
       <!-- Fixed BG -->
-      <div class="fixed-bg" style="background-image: url(assets/img/shape/bg-4.png);"></div>
+      <div
+        class="fixed-bg"
+        style="background-image: url(assets/img/shape/bg-4.png)"
+      ></div>
       <!-- Fixed BG -->
       <div class="container">
         <div class="row">
@@ -18,7 +21,7 @@
       </div>
     </div>
     <!-- End Breadcrumb -->
-    
+
     <!-- Start Team 
         ============================================= -->
     <div class="team-area default-padding bottom-less">
@@ -29,14 +32,14 @@
             <div class="single-item col-lg-4 col-md-6">
               <div class="item wow fadeInUp" data-wow-delay="500ms">
                 <div class="thumb">
-                  <img src="assets/img/team/1.jpg" alt="Thumb">
+                  <img src="assets/img/team/1.jpg" alt="Thumb" />
                 </div>
                 <div class="info">
-                  <span>CEO</span>
-                  <h4>Fungai</h4>
+                  <span>Chief Executive Officer</span>
+                  <h4>Fungai Tonderai Machigere</h4>
                   <div class="contact">
                     <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/fungai</a>
+                    <a href="https://twitter.com/kingftm1994">kingftm1994</a>
                   </div>
                 </div>
               </div>
@@ -46,14 +49,16 @@
             <div class="single-item col-lg-4 col-md-6">
               <div class="item wow fadeInUp" data-wow-delay="600ms">
                 <div class="thumb">
-                  <img src="assets/img/team/2.jpg" alt="Thumb">
+                  <img src="assets/img/team/2.jpg" alt="Thumb" />
                 </div>
                 <div class="info">
-                  <span>Sales Manager</span>
-                  <h4>#</h4>
+                  <span>Chief Marketing Officer</span>
+                  <h4>Prudence Zhangazha</h4>
                   <div class="contact">
                     <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/#</a>
+                    <a href="https://twitter.com/prudence_klue06"
+                      >prudence_klue06</a
+                    >
                   </div>
                 </div>
               </div>
@@ -63,14 +68,14 @@
             <div class="single-item col-lg-4 col-md-6">
               <div class="item wow fadeInUp" data-wow-delay="700ms">
                 <div class="thumb">
-                  <img src="assets/img/team/3.jpg" alt="Thumb">
+                  <img src="assets/img/team/3.jpg" alt="Thumb" />
                 </div>
                 <div class="info">
-                  <span>Data Analyst</span>
-                  <h4>#</h4>
+                  <span>Chief Finance Officer</span>
+                  <h4>Tafadzwa Nontokozo Mawoza</h4>
                   <div class="contact">
                     <i class="fab fa-twitter"></i>
-                    <a href="#">twitter.com/#</a>
+                    <a href="#">twitter</a>
                   </div>
                 </div>
               </div>
@@ -84,11 +89,8 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
-
 </style>
